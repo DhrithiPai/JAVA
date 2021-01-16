@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Compare 
+public class CompareStrings 
 {
     public static void main(String args[])
     {

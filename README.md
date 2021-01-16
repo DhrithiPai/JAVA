@@ -1,3 +1,5 @@
 Accountdriver : Basic ATM .  
 StringSort : Sorts elements of a string in alphabetical order.  
 BubbbleSort : Sorts elements of array using bubble sort technique.  
+Circledriver : inputs radius , control angle of sector and length of segment and outputs area of circle , sector and segment.  
+
